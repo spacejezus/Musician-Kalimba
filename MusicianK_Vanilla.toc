@@ -1,0 +1,18 @@
+## Interface: 11507
+## Title: Musician Kalimba
+## Author: Anderya-ArgentDawn
+## Version: 1.0.0
+## IconTexture: Interface\Icons\inv_misc_flute_01.blp
+## RequiredDeps: Musician
+## OptionalDeps: MusicianExtended
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Notes: Kalimba instrument for Musician
+
+core\MusicianK.lua
+
+constants\MusicianK.Constants.lua
+constants\MusicianK.Instruments.lua
+constants\MusicianK.MidiMapping.lua
+
+locale\locale.xml
