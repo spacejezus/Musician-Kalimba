@@ -4,7 +4,7 @@
 	if Musician.INSTRUMENTS["kalimba"] == nil then
         Musician.INSTRUMENTS["kalimba"] = {
 	            path = "Interface\\AddOns\\MusicianK\\instruments\\kalimba",      			-- Path to your instrument folder
-	            decay = 1000,                                                        		-- Decay duration in milliseconds
+	            decay = 750,                                                        		-- Decay duration in milliseconds
 	            isPercussion = false,                                               		-- Act as a percussion instrument using the single sample file (without extension) from path or picked from pathList using keyMod or roundRobin methods
 	            isPlucked = true,                                                  			-- Set to true for plucked instruments such as guitar, harp etc.
 	            midi = 108,  --Kalimba                                               		-- General MIDI instrument ID (0-127). For percussions, midi is its MIDI ID + 128
