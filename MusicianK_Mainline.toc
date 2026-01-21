@@ -1,7 +1,7 @@
-## Interface: 120001
+## Interface: 120000
 ## Title: Musician Kalimba
 ## Author: Anderya-ArgentDawn
-## Version: 1.0.1
+## Version: 1.0.2
 ## IconTexture: Interface\Icons\inv_misc_flute_01.blp
 ## RequiredDeps: Musician
 ## OptionalDeps: MusicianExtended

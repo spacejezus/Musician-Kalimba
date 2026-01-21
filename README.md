@@ -10,3 +10,6 @@ The FreePats Kalimba soundfont was used and can be found under the soundfonts fo
 16/01/2026 - Version 1.0.1
  - Updated the toc for midnight release
  - Added changelog to readme
+
+ 21/01/2026 - Version 1.0.2
+ - Fixed TOC
